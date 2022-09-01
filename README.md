@@ -32,9 +32,9 @@ You can download a specific release version from <a href="https://www.python.org
 #  Mac/Linux/Windows Check the current version
 pip --version
 # Mac/Linux
-pip install --upgrade pip==20.2.3
+pip install --upgrade pip==22.2.2
 # Windows
-python -m pip install --upgrade pip==20.2.3
+python -m pip install --upgrade pip==22.2.2
 ```
 * Terminal
    * Mac/Linux users can use the default terminal.

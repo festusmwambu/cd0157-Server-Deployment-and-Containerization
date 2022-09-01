@@ -1,4 +1,4 @@
----
+
 AWSTemplateFormatVersion: 2010-09-09
 
 Description: EKSWSV1
@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: SudKul
+    Default: festusmwambu
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
