@@ -16,7 +16,7 @@ PyJWT==1.7.1
 pyparsing==3.0.9
 pytest==6.2.2
 ruamel.yaml==0.16.5
-ruamel.yaml.clib==0.2.6
+ruamel.yaml.clib==0.2.6s
 toml==0.10.2
 typing_extensions==4.3.0
 Werkzeug==2.0.3
